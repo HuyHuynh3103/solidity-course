@@ -1,0 +1,11 @@
+{
+  "name": "solidity-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HuyHuynh3103/solidity-course.git",
+  "author": "Huynh Ba Huy <19127420@student.hcmus.edu.vn>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  }
+}
